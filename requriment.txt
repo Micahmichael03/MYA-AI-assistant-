@@ -1,0 +1,14 @@
+install the following lib
+by using pip install
+- 
+ speech_recognition (pip install SpeechRecognition)
+ openai (pip install openai)
+ pyttsx3
+ pywhatkit
+ datetime
+ wikipedia
+ pyjokes
+ ctime
+ webbrowser
+ time
+ random
